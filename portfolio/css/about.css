@@ -1,0 +1,12 @@
+body{
+        font-weight: lighter;  
+        overflow:auto
+
+}
+h2{        
+        color: rgb(221, 118, 58);
+        text-decoration: underline;
+}
+/* #hobbies{
+        font-size: 50px;
+} */
